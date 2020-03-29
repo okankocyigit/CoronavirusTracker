@@ -19,10 +19,11 @@ Coronavirus tracker app for iOS with Google News Feed.
 ## How to Use
 Build from source code
 1. Clone/Download the repo.
-2. Install the pods `pod install`
-2. Open `CoronaTracker.xcworkspace` in Xcode.
-3. Choose the target.
-4. Build & run!
+2. `cd CoronavirusTracker`
+3. Install the pods `pod install`
+4. Open `CoronaTracker.xcworkspace` in Xcode.
+5. Choose the target.
+6. Build & run!
 
 ## Contribute
 Please feel free to contribute pull requests or create issues for bugs and feature requests.

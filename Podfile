@@ -9,7 +9,7 @@ target 'CoronaTracker' do
   pod 'SnapKit'
   pod 'Charts'
   pod 'Realm'
-  pod 'SwiftWebVC'
+  pod 'SwiftWebVC', :git => 'https://github.com/okankocyigit/SwiftWebVC.git', :branch => 'master'
   pod 'OpenGraph'
   pod 'FlagKit'
   pod 'HanekeSwift', :git => 'https://github.com/Haneke/HanekeSwift', :branch => 'master'

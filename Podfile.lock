@@ -9,10 +9,10 @@ PODS:
   - NVActivityIndicatorView (4.8.0):
     - NVActivityIndicatorView/Presenter (= 4.8.0)
   - NVActivityIndicatorView/Presenter (4.8.0)
-  - OpenGraph (1.2.0)
-  - Realm (4.3.2):
-    - Realm/Headers (= 4.3.2)
-  - Realm/Headers (4.3.2)
+  - OpenGraph (1.2.2)
+  - Realm (4.4.0):
+    - Realm/Headers (= 4.4.0)
+  - Realm/Headers (4.4.0)
   - SnapKit (5.0.1)
   - SwiftWebVC (0.4.2)
 
@@ -26,7 +26,7 @@ DEPENDENCIES:
   - OpenGraph
   - Realm
   - SnapKit
-  - SwiftWebVC
+  - SwiftWebVC (from `https://github.com/okankocyigit/SwiftWebVC.git`, branch `master`)
 
 SPEC REPOS:
   trunk:
@@ -38,17 +38,22 @@ SPEC REPOS:
     - OpenGraph
     - Realm
     - SnapKit
-    - SwiftWebVC
 
 EXTERNAL SOURCES:
   HanekeSwift:
     :branch: master
     :git: https://github.com/Haneke/HanekeSwift
+  SwiftWebVC:
+    :branch: master
+    :git: https://github.com/okankocyigit/SwiftWebVC.git
 
 CHECKOUT OPTIONS:
   HanekeSwift:
     :commit: 41c1efc82a9b7cefa4381f79669ab1e32b867b16
     :git: https://github.com/Haneke/HanekeSwift
+  SwiftWebVC:
+    :commit: ac6d01fa6d52b81740443c11cc27e516be467c8d
+    :git: https://github.com/okankocyigit/SwiftWebVC.git
 
 SPEC CHECKSUMS:
   BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
@@ -57,11 +62,11 @@ SPEC CHECKSUMS:
   HanekeSwift: 0ee43c4cfe871ef8cc7382bda8729b6374c41748
   Localize-Swift: 4bed4f0ccac8be2ec3517ee359da80ba2adb0fae
   NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
-  OpenGraph: b467158726b640d3c08083ab830be955c4ad6259
-  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  OpenGraph: 661adce5ccba5d3a57ba16681a9ae2b949bdcc03
+  Realm: e125f464884cda953ebefe70c671b75b03b81b9b
   SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
   SwiftWebVC: ecc4feaabe5a3f75e059a0a345d3386bb0d16c44
 
-PODFILE CHECKSUM: 1ff745c21cdab7f68146f059c0c10ef3b47d4f18
+PODFILE CHECKSUM: f8ba6db5eb2e98e9d987d5311b035e6f12363305
 
 COCOAPODS: 1.8.4

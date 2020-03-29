@@ -1,0 +1,14 @@
+"Map" = "Map";
+"News" = "News";
+"Countries" = "Countries";
+"Corona Tracker" = "Corona Tracker";
+"Last update" = "Last update";
+"confirmed" = "confirmed";
+"cured" = "cured";
+"death" = "death";
+"suspected" = "suspected";
+"Mortality Rate" = "Mortality Rate";
+"corona_search_keyword" = "coronavirus";
+"CFBundleDisplayName" = "Corona Tracker";
+"pull_down_to_refresh" = "Pull down to refresh";
+"refreshing" = "refreshing";

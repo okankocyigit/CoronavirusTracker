@@ -1,0 +1,13 @@
+"Map" = "지도";
+"News" = "뉴스";
+"Countries" = "국가";
+"Corona Tracker" = "Corona Tracker";
+"Last update" = "마지막 업데이트";
+"confirmed" = "확인 됨";
+"cured" = "치료 됨";
+"death" = "죽은";
+"suspected" = "의심되는";
+"Mortality Rate" = "정신 율";
+"corona_search_keyword" = "코로나바이러스";
+"pull_down_to_refresh" = "아래로 당겨 새로 고침";
+"refreshing" = "로딩";

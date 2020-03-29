@@ -1,0 +1,13 @@
+"Map" = "地図";
+"News" = "ニュース";
+"Countries" = "国";
+"Corona Tracker" = "Corona Tracker";
+"Last update" = "最後の更新";
+"confirmed" = "確認済み";
+"cured" = "硬化した";
+"death" = "デッド";
+"suspected" = "疑われる";
+"Mortality Rate" = "死亡率";
+"corona_search_keyword" = "コロナウイルス";
+"pull_down_to_refresh" = "プルダウンして更新";
+"refreshing" = " 読み込み中...";

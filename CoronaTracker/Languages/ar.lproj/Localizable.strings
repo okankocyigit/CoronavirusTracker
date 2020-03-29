@@ -1,0 +1,14 @@
+"Map" = "خريطة";
+"News" = "أخبار";
+"Countries" = "بلدان";
+"Corona Tracker" = "Corona Tracker";
+"Last update" = "اخر تحديث";
+"confirmed" = "تم تأكيد";
+"cured" = "الشفاء";
+"death" = "ميت";
+"suspected" = "يشتبه";
+"Mortality Rate" = "معدل الوفيات";
+"corona_search_keyword" = "التاجى";
+"CFBundleDisplayName" = "Corona Tracker";
+"pull_down_to_refresh" = "Pull down to refresh";
+"refreshing" = "refreshing";

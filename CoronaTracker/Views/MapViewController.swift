@@ -127,7 +127,9 @@ extension MapViewController: CountriesViewModelDelegate {
                     continue
                 }
             }
-            self.mapView.addAnnotation(CircleAnnotation.init(coordinate: CLLocationCoordinate2D(latitude: data.lat, longitude: data.lng), name: name, data: data, status: status))
+            if let lat = data.lat, let lng = data.lng {
+                self.mapView.addAnnotation(CircleAnnotation.init(coordinate: CLLocationCoordinate2D(latitude: lat, longitude: lng), name: name, data: data, status: status))
+            }
         }
         
     }

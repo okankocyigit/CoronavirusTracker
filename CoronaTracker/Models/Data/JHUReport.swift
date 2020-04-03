@@ -17,7 +17,7 @@ struct Attributes: Codable {
     let provinceState: String?
     let countryRegion: String
     let lastUpdate: Int
-    let lat, long: Double
+    let lat, long: Double?
     let confirmed, recovered, deaths: Int
     
     enum CodingKeys: String, CodingKey {
